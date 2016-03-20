@@ -1,0 +1,8 @@
+pros of manual commits:
+can make logical commits
+shows programmers thought process
+
+cons of manual commits:
+requires disciplined committing
+requires good descriptive commits
+(google commits from last night for some funny bad ones)

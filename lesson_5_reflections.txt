@@ -1,0 +1,1 @@
+"diff" and "log" are indeed useful commands

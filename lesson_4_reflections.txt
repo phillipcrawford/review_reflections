@@ -1,0 +1,3 @@
+git is mean for coders while others like google docs
+were meant for a broader audience, such as students
+collaborating on an essay

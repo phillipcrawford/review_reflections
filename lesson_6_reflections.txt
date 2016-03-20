@@ -1,0 +1,3 @@
+I as a coder won't worry that past revisions will be lost or
+muddled in a lot of undescriptive save names. Commit messages
+enable descriptive saves across multiple files!

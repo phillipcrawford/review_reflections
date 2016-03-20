@@ -1,0 +1,2 @@
+using the diff command and passing two documents show lines of text that differ.
+This is useful because in thousand line documents we can quickly spot differences

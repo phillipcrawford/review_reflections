@@ -1,0 +1,6 @@
+Using version control on a project is better than saving
+ progress on different files because we can trace the
+ evolution of a project with greater ease. An alternative i
+ s saving your file with a "_1" and "_2" at the end, but this
+ is not descriptive. Version control allows commit messages.
+ Commit messages let us know what was changed
