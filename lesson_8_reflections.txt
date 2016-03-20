@@ -1,0 +1,8 @@
+the staging area is well named, it's like a preperation area
+before committing. the working directory is the file structure
+where everything is located locally on a machine. A repository
+is a working directory with a .git file in it, it can be
+uploaded to github and cloned down from github. the staged
+changes will not be uploaded to github unless committed, and
+staging something does not change anything in the working
+directory.

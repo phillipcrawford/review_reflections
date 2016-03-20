@@ -1,0 +1,3 @@
+git status and git init still work as I remembered them
+this is all review for me and i never forgot much about git
+but I'm taking this course just in case
