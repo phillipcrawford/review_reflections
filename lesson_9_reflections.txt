@@ -1,0 +1,5 @@
+Q: When would you want to create a remote repository rather than keeping all your work local?
+
+A: storing your work on a remote repository is a good idea. It creates a backup for your data.
+It allows you to change computers. It allows other people to work contribute to your project
+from their computer.
